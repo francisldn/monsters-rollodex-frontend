@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/francisldn/monsters-rollodex-frontend/static/css/main.c9e380aa.chunk.css",
+    "main.js": "/francisldn/monsters-rollodex-frontend/static/js/main.5e7837c7.chunk.js",
+    "main.js.map": "/francisldn/monsters-rollodex-frontend/static/js/main.5e7837c7.chunk.js.map",
+    "runtime-main.js": "/francisldn/monsters-rollodex-frontend/static/js/runtime-main.f051c001.js",
+    "runtime-main.js.map": "/francisldn/monsters-rollodex-frontend/static/js/runtime-main.f051c001.js.map",
+    "static/js/2.a70c2975.chunk.js": "/francisldn/monsters-rollodex-frontend/static/js/2.a70c2975.chunk.js",
+    "static/js/2.a70c2975.chunk.js.map": "/francisldn/monsters-rollodex-frontend/static/js/2.a70c2975.chunk.js.map",
+    "static/js/3.03dad702.chunk.js": "/francisldn/monsters-rollodex-frontend/static/js/3.03dad702.chunk.js",
+    "static/js/3.03dad702.chunk.js.map": "/francisldn/monsters-rollodex-frontend/static/js/3.03dad702.chunk.js.map",
+    "index.html": "/francisldn/monsters-rollodex-frontend/index.html",
+    "static/css/main.c9e380aa.chunk.css.map": "/francisldn/monsters-rollodex-frontend/static/css/main.c9e380aa.chunk.css.map",
+    "static/js/2.a70c2975.chunk.js.LICENSE.txt": "/francisldn/monsters-rollodex-frontend/static/js/2.a70c2975.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f051c001.js",
+    "static/js/2.a70c2975.chunk.js",
+    "static/css/main.c9e380aa.chunk.css",
+    "static/js/main.5e7837c7.chunk.js"
+  ]
+}
